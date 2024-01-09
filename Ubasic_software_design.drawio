@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T11:23:17.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="1ggrPuRc-8B2C9RRKGOV" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-09T11:27:59.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4Fw9gQf3y5wcd7egFsoX" version="22.1.17" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1245" dy="711" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -116,7 +116,36 @@
           <mxGeometry x="538" y="991" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1fMMj_ESsbeUDZiiFBq4-177" value="youtube logs storage" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="299" y="806" width="60" height="80" as="geometry" />
+          <mxGeometry x="343" y="813" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1fMMj_ESsbeUDZiiFBq4-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1fMMj_ESsbeUDZiiFBq4-179" target="1fMMj_ESsbeUDZiiFBq4-177">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="291" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1fMMj_ESsbeUDZiiFBq4-179" value="prodess status" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="234" y="925" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1fMMj_ESsbeUDZiiFBq4-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1fMMj_ESsbeUDZiiFBq4-180" target="1fMMj_ESsbeUDZiiFBq4-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1fMMj_ESsbeUDZiiFBq4-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1fMMj_ESsbeUDZiiFBq4-180" target="1fMMj_ESsbeUDZiiFBq4-177">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1fMMj_ESsbeUDZiiFBq4-180" value="upload status" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="411" y="910" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1fMMj_ESsbeUDZiiFBq4-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1fMMj_ESsbeUDZiiFBq4-182" target="1fMMj_ESsbeUDZiiFBq4-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1fMMj_ESsbeUDZiiFBq4-182" value="conformation status" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="905" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1fMMj_ESsbeUDZiiFBq4-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.433;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1fMMj_ESsbeUDZiiFBq4-179" target="1fMMj_ESsbeUDZiiFBq4-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1fMMj_ESsbeUDZiiFBq4-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=27.5;entryPerimeter=0;" edge="1" parent="1" source="1fMMj_ESsbeUDZiiFBq4-182" target="1fMMj_ESsbeUDZiiFBq4-177">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
